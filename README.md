@@ -1,3 +1,5 @@
+[![feiker's github stats](https://github-readme-stats.vercel.app/api?username=feiker)](https://github.com/anuraghazra/github-readme-stats)
+
 定风波
 
 三月七日，沙湖道中遇雨。雨具先去，同行皆狼狈，余独不觉，已而遂晴，故作此。
